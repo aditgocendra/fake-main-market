@@ -33,7 +33,7 @@ fetch("https://fakestoreapi.com/products")
                               <p>Rp. ${convertDollarToRupiah(Math.ceil(json[i].price))}</p>
                               <div class="text-end">
                                 <a href="../fake-main-market/detail_product.html?id=${json[i].id}" class="btn btn-outline-success btn-sm">Detail</a>
-                                <a href="#" class="btn btn-success btn-sm" onClick="${addToCart(json[i].id)}">Cart</a>
+                                <a href="#" class="btn btn-success btn-sm">Cart</a>
                               </div>
                             </div>
                           </div>
