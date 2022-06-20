@@ -1,6 +1,8 @@
 # Fake Main Market
 
- <img src="/assets/img/logo_apps.png" width="400" alt="Main Market Logo">
+<p align="center">
+ <img src="/assets/img/logo_apps.png" width="200" alt="Main Market Logo">
+</p>
 
 ## API USED
 - [Fakestore API](https://fakestoreapi.com/)
